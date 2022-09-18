@@ -1,8 +1,5 @@
 ### Hello!
 
-## Things that I am currently working on: 
-* Android app using Kotlin
-
 ## Languages
 <div id="icons"> 
 
